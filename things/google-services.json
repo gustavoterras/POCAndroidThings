@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787823794839",
+    "firebase_url": "https://androidthings-3b3f2.firebaseio.com",
+    "project_id": "androidthings-3b3f2",
+    "storage_bucket": "androidthings-3b3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787823794839:android:5bc1898cd2206fb3",
+        "android_client_info": {
+          "package_name": "com.infoterras.androidthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787823794839-832bvha81k15dr432dgar80ih78rgtko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infoterras.androidthings",
+            "certificate_hash": "f042a1030fb63f6f4888e2e63bf45e97129101f1"
+          }
+        },
+        {
+          "client_id": "787823794839-rn26gbeg6dq61r25f3bvkkrbljr33upm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5-Gwswm9ZztxqOiNGf5hBDEnbxTSFlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787823794839-rn26gbeg6dq61r25f3bvkkrbljr33upm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
